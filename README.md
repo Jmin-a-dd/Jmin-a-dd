@@ -1,11 +1,11 @@
-## Hi there 👋
+## Heyo I'm Amin 👋
 
-👨‍🎓 Master’s student in Information and Communication Technologies @ FAU 
-🔭 Passionate (Learning) data science, cloud, and software development
-🌱 Building projects to learn, grow, and share
-📫 How to reach me: mohamedhamin1421@gmail.com
+👨‍🎓 Master’s student in Information and Communication Technologies @ FAU<br/>
+🔭 Passionate (Learning) data science, cloud, and software development<br/>
+🌱 Building projects to learn, grow, and share<br/>
+📫 How to reach me: mohamedhamin1421@gmail.com<br/>
 
-[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmin-a-dd)](https://github.com/anuraghazra/github-readme-stats)
+[![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmin-a-dd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jmin-a-dd/Jmin-a-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
